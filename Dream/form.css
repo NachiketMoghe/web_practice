@@ -1,0 +1,29 @@
+form{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 15px;
+    align-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+}
+button{
+    width: 99%;
+}
+img{
+    width: 99%;
+}
+iframe{
+    width: 99%;
+}
+body{
+    background: #FFA17F; 
+background: -webkit-linear-gradient(to right, #00223E, #FFA17F); 
+background: linear-gradient(to right, #00223E, #FFA17F); 
+}
+#inputPassword4{
+    width: 99%;
+}
