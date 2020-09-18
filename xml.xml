@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="bish.xsl"?>
+
+
+<info>
+        <data>
+            <fname>Nachiket</fname>
+            <lname>Sama</lname>
+            <ingameid>1</ingameid>
+            <email>nachi@gmail.com</email>
+            <pass>lilbish</pass>
+        </data>
+        <data>
+            <fname>Manoj</fname>
+            <lname>Devki</lname>
+            <ingameid>69</ingameid>
+            <email>devbev@hotmail.com</email>
+            <pass>greenTubelight</pass>
+        </data>
+        <data>
+            <fname>Aariken</fname>
+            <lname>Shuriken</lname>
+            <ingameid>3</ingameid>
+            <email>kunai@hotmail.com</email>
+            <pass>TenTen@143</pass>
+        </data>
+</info>
+

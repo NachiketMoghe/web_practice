@@ -1,0 +1,19 @@
+ body{
+     background-color: #f5b9bf
+ }
+
+.navbar .navbar-brand{
+    color: #bb0000;
+}
+.navbar .nav-link{
+    color: azure;
+}
+.navbar .nav-link:hover {
+    color: #bb0000;
+}
+.navbar .navbar-toggler-icon{
+color: #bb0000;
+}
+.slash{
+    color: #bb0000;
+}

@@ -1,0 +1,16 @@
+body{
+	background-image: url(bg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+form {margin-left: 76%;
+margin-right: 4%;
+margin-top: 2%;
+border-left: 1px;
+border-right: 1px;
+border-top: 1px;
+border-bottom: 1px;
+border-color: #130e2b;
+border-width: 1px;
+}
